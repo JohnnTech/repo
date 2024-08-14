@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(13, 255, 0);
+}
+#corBranco{
+    color: white;
+}
+h1{
+    color: blueviolet;
+}
+.corVermelho{
+    color: red;
+}
+header ul{
+    display: flex;
+    list-style: none;
+}
+header li{
+    margin-left: 10px;
+}
